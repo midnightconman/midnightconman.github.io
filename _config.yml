@@ -18,6 +18,7 @@ description: >-
   Trying to add description
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://midnightconman.github.io/"
+permalink: /blog/:year/:month/:day/:title/
 github_username: midnightconman
 
 # Build settings
