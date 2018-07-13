@@ -14,7 +14,7 @@ github_username: midnightconman
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-midnight
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
