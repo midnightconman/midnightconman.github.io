@@ -1,4 +1,5 @@
-baseURL = '//midnightconman.github.io'
+baseURL = '.'
 languageCode = 'en-us'
 title = "Midnightconman's Newsletter"
 theme = "simpleness"
+custom_css = 'simpleness.css'
