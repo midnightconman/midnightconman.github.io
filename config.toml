@@ -1,4 +1,4 @@
-baseURL = 'https://midnightconman.github.io'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Midnightconman's Newsletter"
 theme = "ananke"
