@@ -37,11 +37,14 @@ tag = "tags"
   # doc: https://gohugo.io/getting-started/configuration-markup#highlight
   # syntax style: https://xyproto.github.io/splash/docs/longer/all.html
   [markup.highlight]
-    guessSyntax = true
-    hl_Lines = ""
-    # lineNoStart = 1
-    # lineNos = true
-    # lineNumbersInTable = true
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
     noClasses = true
-    style = "monokai" # github, dracula, vim, monokai
+    style = 'paraiso-dark'
     tabWidth = 4
